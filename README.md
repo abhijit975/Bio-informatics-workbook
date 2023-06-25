@@ -1,2 +1,2 @@
-# PINN-Example
- Physics informed machine learning example to solve a differential equation
+# Workbook of bio-informatics
+Bioinformatics notebook to solve problems from Coursera Bioinformatics course offered by UC San Diego
